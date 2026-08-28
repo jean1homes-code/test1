@@ -16,12 +16,12 @@
 
   "servers": [
     {
-      "name": "Brilliant RP #1",
-      "ip": "....",
-      "port": 1357,
+      "name": "MINAS CITY RP #1",
+      "ip": "135.148.164.122",
+      "port": 18747,
       "x2": false,
       "online": 0,
-      "maxonline": 50
+      "maxonline": 500
     }
   ],
 
