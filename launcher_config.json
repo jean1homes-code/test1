@@ -17,8 +17,8 @@
   "servers": [
     {
       "name": "MINAS CITY RP #1",
-      "ip": "135.148.164.122",
-      "port": 18747,
+      "ip": "65.108.36.172",
+      "port": 24472,
       "x2": false,
       "online": 0,
       "maxonline": 500
