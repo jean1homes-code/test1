@@ -5,22 +5,22 @@
 
   "urls": {
     "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
-    "donate": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "forum": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "support": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "telegram": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "vk": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "discord": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "privacy": "https://t.me/+1e1Gie_WTdU5YjFi"
+    "donate": "https://discord.gg/4gEjT2fym9 ",
+    "forum": "https://discord.gg/4gEjT2fym9 ",
+    "support": "https://discord.gg/4gEjT2fym9 ",
+    "telegram": "https://discord.gg/4gEjT2fym9 ",
+    "vk": "https://discord.gg/4gEjT2fym9 ",
+    "discord": "https://discord.gg/4gEjT2fym9 ",
+    "privacy": "https://discord.gg/4gEjT2fym9 "
   },
 
   "servers": [
     {
-      "name": "MINAS CITY RP #1",
+      "name": "BRILLIANT RP #1",
       "ip": "65.108.36.172",
       "port": 24472,
       "x2": false,
-      "online": 0,
+      "online": 15,
       "maxonline": 500
     }
   ],
